@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/monsters/armless"
-	"$surfaceprop" "BloodyFlesh"
-	$model 1
-}
